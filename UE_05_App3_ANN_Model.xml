@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<ANN_Model type="PyBrain_ANN">
+  <Metadata>
+    <Architecture>1-5-1</Architecture>
+    <ModelType>PyBrain_ANN</ModelType>
+    <InputFeatures>1</InputFeatures>
+    <OutputFeatures>1</OutputFeatures>
+  </Metadata>
+  <Parameters>
+    <HiddenNeurons>5</HiddenNeurons>
+    <ActivationFunction>Sigmoid</ActivationFunction>
+    <LearningRate>0.01</LearningRate>
+  </Parameters>
+  <Performance/>
+</ANN_Model>
